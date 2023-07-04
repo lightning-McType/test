@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sam",
+      "email": "sam@gmail.com",
+      "bio": "fidfkdfkfiefkefedisfdfkdfidsfksdkfdkfidfkdfd"
+    },
+    {
+      "id": 2,
+      "name": "Mike",
+      "email": "mike@gmail.com",
+      "bio": "fidfkdfkfiefkefedisfdfkdfidsfksdkfdkfidfkdfd"
+    },
+    {
+      "id": 3,
+      "name": "Tom",
+      "email": "tom@gmail.com",
+      "bio": "fidfkdfkfiefkefedisfdfkdfidsfksdkfdkfidfkdfd"
+    }
+  ]
+}
